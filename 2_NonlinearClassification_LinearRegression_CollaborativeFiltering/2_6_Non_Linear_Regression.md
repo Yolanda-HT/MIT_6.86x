@@ -24,5 +24,7 @@ At the end of this lecture, you will be able to
 
 Kernel method: operating on high dimensional vector without explicitly having to construct them.
 
+[Kernel Methods - Caltech](https://www.youtube.com/watch?v=XUj5JbQihlU)
+
 
 ## Radial Basis Kernel 
