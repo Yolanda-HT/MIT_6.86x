@@ -7,4 +7,5 @@ Resources:
 - [Cornell - Machine Learning for Intelligent Systems](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/) </br>
 - [UC Berkeley - Artifical Intelligence: A Mordern Approach](http://aima.cs.berkeley.edu/) </br>
 - [Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning](https://www.deeplearningbook.org/) </br>
+- [Stanford - The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) </br>
 - [Notes from previous student](https://github.com/sylvaticus/MITx_6.86x) </br>
