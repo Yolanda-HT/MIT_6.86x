@@ -4,8 +4,8 @@
 
 Resources:
 - [MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/index.htm)</br>
-- [Cornell - Machine Learning for Intelligent Systems](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/) </br>
-- [UC Berkeley - Artifical Intelligence: A Mordern Approach](http://aima.cs.berkeley.edu/) </br>
-- [Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning](https://www.deeplearningbook.org/) </br>
-- [Stanford - The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) </br>
+- [[Lecture & notes] Cornell - Machine Learning for Intelligent Systems](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/) </br>
+- [[Online book] UC Berkeley - Artifical Intelligence: A Mordern Approach](http://aima.cs.berkeley.edu/) </br>
+- [[Online book] Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning](https://www.deeplearningbook.org/) </br>
+- [[Pdf book] Stanford - The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) </br>
 - [Notes from previous student](https://github.com/sylvaticus/MITx_6.86x) </br>
