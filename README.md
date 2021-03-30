@@ -10,4 +10,5 @@ Resources:
 - [[Book - pdf] Stanford - The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) </br>
 - [[Lectures & notes] Cornell - Machine Learning for Intelligent Systems](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/) </br>
 - [[Lectures & notes] Stanford - Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/convolutional-networks/)
+- [Quant ML](https://www.quantml.org/) </br>
 - [Notes from previous student](https://github.com/sylvaticus/MITx_6.86x) </br>
